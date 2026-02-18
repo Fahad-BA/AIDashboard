@@ -1,0 +1,167 @@
+{
+  "performance_metrics": {
+    "monitoring_enabled": true,
+    "update_interval": 300,
+    "metrics_retention_days": 30,
+    "alert_thresholds": {
+      "response_time_ms": 5000,
+      "cpu_usage_percent": 80,
+      "memory_usage_percent": 80,
+      "error_rate_percent": 10
+    }
+  },
+  "agents_performance": {
+    "cto-leader": {
+      "total_tasks": 156,
+      "completed_tasks": 152,
+      "failed_tasks": 4,
+      "average_response_time": 2340,
+      "cpu_usage": 45.2,
+      "memory_usage": 67.8,
+      "uptime_hours": 720,
+      "last_active": "2026-02-17T23:45:00",
+      "reliability_score": 97.4
+    },
+    "ba-strategist": {
+      "total_tasks": 89,
+      "completed_tasks": 87,
+      "failed_tasks": 2,
+      "average_response_time": 1876,
+      "cpu_usage": 32.1,
+      "memory_usage": 54.3,
+      "uptime_hours": 648,
+      "last_active": "2026-02-17T23:42:00",
+      "reliability_score": 97.8
+    },
+    "sa-architect": {
+      "total_tasks": 134,
+      "completed_tasks": 132,
+      "failed_tasks": 2,
+      "average_response_time": 2654,
+      "cpu_usage": 58.7,
+      "memory_usage": 71.2,
+      "uptime_hours": 696,
+      "last_active": "2026-02-17T23:38:00",
+      "reliability_score": 98.5
+    },
+    "sysadmin-infrastructure": {
+      "total_tasks": 201,
+      "completed_tasks": 199,
+      "failed_tasks": 2,
+      "average_response_time": 1432,
+      "cpu_usage": 28.9,
+      "memory_usage": 42.1,
+      "uptime_hours": 744,
+      "last_active": "2026-02-17T23:50:00",
+      "reliability_score": 99.0
+    },
+    "dba-data": {
+      "total_tasks": 67,
+      "completed_tasks": 66,
+      "failed_tasks": 1,
+      "average_response_time": 1567,
+      "cpu_usage": 41.3,
+      "memory_usage": 58.9,
+      "uptime_hours": 552,
+      "last_active": "2026-02-17T23:40:00",
+      "reliability_score": 98.5
+    },
+    "devops-automation": {
+      "total_tasks": 178,
+      "completed_tasks": 175,
+      "failed_tasks": 3,
+      "average_response_time": 1987,
+      "cpu_usage": 52.4,
+      "memory_usage": 63.7,
+      "uptime_hours": 672,
+      "last_active": "2026-02-17T23:36:00",
+      "reliability_score": 98.3
+    },
+    "softarch-lead": {
+      "total_tasks": 143,
+      "completed_tasks": 141,
+      "failed_tasks": 2,
+      "average_response_time": 2456,
+      "cpu_usage": 48.9,
+      "memory_usage": 69.4,
+      "uptime_hours": 624,
+      "last_active": "2026-02-17T23:39:00",
+      "reliability_score": 98.6
+    },
+    "leaddeveloper-tech": {
+      "total_tasks": 234,
+      "completed_tasks": 231,
+      "failed_tasks": 3,
+      "average_response_time": 2123,
+      "cpu_usage": 61.2,
+      "memory_usage": 75.6,
+      "uptime_hours": 696,
+      "last_active": "2026-02-17T23:49:00",
+      "reliability_score": 98.7
+    },
+    "seniordeveloper-code": {
+      "total_tasks": 189,
+      "completed_tasks": 186,
+      "failed_tasks": 3,
+      "average_response_time": 2234,
+      "cpu_usage": 57.8,
+      "memory_usage": 72.1,
+      "uptime_hours": 648,
+      "last_active": "2026-02-17T23:41:00",
+      "reliability_score": 98.4
+    },
+    "juniorddeveloper-learning": {
+      "total_tasks": 98,
+      "completed_tasks": 96,
+      "failed_tasks": 2,
+      "average_response_time": 3120,
+      "cpu_usage": 35.6,
+      "memory_usage": 48.3,
+      "uptime_hours": 432,
+      "last_active": "2026-02-17T23:37:00",
+      "reliability_score": 98.0
+    },
+    "qa-quality": {
+      "total_tasks": 145,
+      "completed_tasks": 143,
+      "failed_tasks": 2,
+      "average_response_time": 1765,
+      "cpu_usage": 38.9,
+      "memory_usage": 51.2,
+      "uptime_hours": 600,
+      "last_active": "2026-02-17T23:43:00",
+      "reliability_score": 98.6
+    },
+    "uiux-researcher": {
+      "total_tasks": 112,
+      "completed_tasks": 110,
+      "failed_tasks": 2,
+      "average_response_time": 2543,
+      "cpu_usage": 44.7,
+      "memory_usage": 62.3,
+      "uptime_hours": 576,
+      "last_active": "2026-02-17T23:51:00",
+      "reliability_score": 98.2
+    },
+    "team-coordinator": {
+      "total_tasks": 267,
+      "completed_tasks": 265,
+      "failed_tasks": 2,
+      "average_response_time": 1567,
+      "cpu_usage": 52.1,
+      "memory_usage": 68.9,
+      "uptime_hours": 744,
+      "last_active": "2026-02-17T23:52:00",
+      "reliability_score": 99.3
+    }
+  },
+  "system_summary": {
+    "total_agents": 13,
+    "active_agents": 13,
+    "average_reliability": 98.3,
+    "total_tasks_completed": 2123,
+    "total_system_uptime_hours": 8568,
+    "last_updated": "2026-02-17T23:52:00",
+    "performance_status": "EXCELLENT"
+  }
+}

@@ -1,0 +1,11 @@
+<svg width="80" height="80" viewBox="0 0 80 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+<circle cx="40" cy="40" r="40" fill="url(#gradient)"/>
+<path d="M40 20C36.6863 20 34 22.6863 34 26C34 29.3137 36.6863 32 40 32C43.3137 32 46 29.3137 46 26C46 22.6863 43.3137 20 40 20Z" fill="white"/>
+<path d="M28 52C28 46.4772 32.4772 42 38 42H42C47.5228 42 52 46.4772 52 52V54C52 56.2091 50.2091 58 48 58H32C29.7909 58 28 56.2091 28 54V52Z" fill="white"/>
+<defs>
+<linearGradient id="gradient" x1="0" y1="0" x2="80" y2="80" gradientUnits="userSpaceOnCanvas">
+<stop stop-color="#667eea"/>
+<stop offset="1" stop-color="#764ba2"/>
+</linearGradient>
+</defs>
+</svg>

@@ -1,0 +1,43 @@
+
+## 🏥 Agent Health Report
+**Generated:** 2026-02-18 00:05:07
+
+### 📊 Database Status
+- Total Agents: 13
+- Idle Agents: 13
+- Working Agents: 0
+- Recently Active: 13
+- Database Health: ✅ Healthy
+
+### 🏢 Workspace Status
+- Healthy Workspaces: 0/13
+
+### ⚠️ Issues Found:
+- Workspace not found: cto-leader -> /home/fahad/agents/workspace-cto
+- Workspace not found: ba-strategist -> /home/fahad/agents/workspace-ba
+- Workspace not found: sa-architect -> /home/fahad/agents/workspace-sa
+- Workspace not found: sysadmin-infrastructure -> /home/fahad/agents/workspace-sysadmin
+- Workspace not found: dba-data -> /home/fahad/agents/workspace-dba
+- Workspace not found: devops-automation -> /home/fahad/agents/workspace-devops
+- Workspace not found: softarch-lead -> /home/fahad/agents/workspace-softarch
+- Workspace not found: leaddeveloper-tech -> /home/fahad/agents/workspace-leaddev
+- Workspace not found: seniordeveloper-code -> /home/fahad/agents/workspace-seniord
+- Workspace not found: juniorddeveloper-learning -> /home/fahad/agents/workspace-juniord
+- Workspace not found: qa-quality -> /home/fahad/agents/workspace-qa
+- Workspace not found: uiux-researcher -> /home/fahad/agents/workspace-uiux
+- Workspace not found: team-coordinator -> /home/fahad/agents/workspace-coordinator
+
+### 👥 Agent Details
+- **cto-leader**: ~/agents/workspace-cto | zai/glm-4-5
+- **ba-strategist**: ~/agents/workspace-ba | zai/glm-4-air
+- **sa-architect**: ~/agents/workspace-sa | zai/glm-4-air
+- **sysadmin-infrastructure**: ~/agents/workspace-sysadmin | zai/glm-4-air
+- **dba-data**: ~/agents/workspace-dba | zai/glm-4-air
+- **devops-automation**: ~/agents/workspace-devops | zai/glm-4-air
+- **softarch-lead**: ~/agents/workspace-softarch | zai/glm-4-air
+- **leaddeveloper-tech**: ~/agents/workspace-leaddev | zai/glm-4-air
+- **seniordeveloper-code**: ~/agents/workspace-seniord | zai/glm-4-air
+- **juniorddeveloper-learning**: ~/agents/workspace-juniord | zai/glm-4-air
+- **qa-quality**: ~/agents/workspace-qa | zai/glm-4-air
+- **uiux-researcher**: ~/agents/workspace-uiux | zai/glm-4-air
+- **team-coordinator**: ~/agents/workspace-coordinator | zai/glm-4-5

@@ -1,0 +1,24 @@
+{
+  "agent_management": {
+    "last_updated": "2026-02-17T23:50:00",
+    "version": "1.0.0",
+    "total_agents": 13,
+    "active_agents": 13,
+    "agent_types": {
+      "leadership": ["cto-leader", "team-coordinator"],
+      "architecture": ["sa-architect", "softarch-lead", "uiux-researcher"],
+      "development": ["leaddeveloper-tech", "seniordeveloper-code", "juniorddeveloper-learning"],
+      "operations": ["sysadmin-infrastructure", "dba-data", "devops-automation", "qa-quality"],
+      "analysis": ["ba-strategist"]
+    },
+    "models_in_use": {
+      "zai/glm-4-5": 2,
+      "zai/glm-4-air": 11
+    },
+    "workspaces_status": {
+      "active": 13,
+      "configured": 13,
+      "issues": []
+    }
+  }
+}
